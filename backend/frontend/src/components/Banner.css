@@ -1,0 +1,20 @@
+.banner{
+    background-image:url('https://wallpaperaccess.com/full/2593042.jpg');
+    background-size: cover;
+    height: 400px;
+    color: white;
+    
+}
+.content{
+    padding-top:140px;
+    height: 200px;
+    left: 120px;
+    padding-left: 15px;
+}
+
+
+
+.fade{
+    height: 7.4rem;
+    background-image:linear-gradient(180deg,transparent,rgba(37,37,37,0.61),#111);
+}
